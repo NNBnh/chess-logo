@@ -3,6 +3,10 @@
 <p align="center"><a href="https://github.com/NNBnh/chess-logo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/chess-logo?labelColor=5A5353&color=A0938E&style=for-the-badge" alt="License: CC0-1.0 "></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23A0938E.svg?labelColor=5A5353&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
 ## 💡 About
+Logo for my school's chess club,
+the one on top of this document is the one we ended up with.
+
+Here are some early designs:
 
 |Flat|Simple|3D|
 |-|-|-|
