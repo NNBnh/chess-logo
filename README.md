@@ -1,5 +1,5 @@
 <h1 align="center">Chess logo/avarta/icon</h1>
-<p align="center"><img width="40%" src="https://user-images.githubusercontent.com/43980777/129465570-5878e7cf-0f33-4f6c-b0ab-fc3768dd4aad.png"></p>
+<p align="center"><a href="https://lospec.com/i/nwgd"><img width="40%" src="https://user-images.githubusercontent.com/43980777/129475130-0bb84fb4-2902-4747-8474-dccafe12ff43.png"></a></p>
 <p align="center"><a href="https://github.com/NNBnh/chess-logo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/chess-logo?labelColor=5A5353&color=A0938E&style=for-the-badge" alt="License: CC0-1.0 "></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23A0938E.svg?labelColor=5A5353&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
 ## 💡 About
